@@ -1,0 +1,15 @@
+.productosComprados {
+    display: flex;
+    color: whitesmoke;
+    .imgCarrito {
+      width: 3rem;
+      height: 3rem;
+    }
+  }
+  .contenedorCarrito{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
